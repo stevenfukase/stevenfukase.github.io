@@ -1,6 +1,6 @@
 {
-  "name": "doorback",
-  "version": "0.1.0",
+  "name": "stevenfukase.github.io",
+  "version": "1.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
