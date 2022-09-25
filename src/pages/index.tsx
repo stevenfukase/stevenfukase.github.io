@@ -32,7 +32,7 @@ const Home: NextPage = () => (
         <h3>Random Tokyo Ward Generator</h3>
         <LinkText
           text="ward23.stevenfukase.com"
-          href="https://ward23.stevenfukase.com"
+          href="https://23wards.stevenfukase.com"
         />
       </li>
     </ul>
